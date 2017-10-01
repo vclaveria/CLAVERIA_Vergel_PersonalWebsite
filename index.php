@@ -39,6 +39,39 @@ body {
     border-radius: 12px;
   }
 
+
+
+  .intro {
+    margin: 0px 10 0px 80;
+    padding: 1px 1px;
+    width: 30%;
+    background-size: cover;
+    color: white; 
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.5;
+    text-shadow: 1px 1px black;
+    }
+
+
+  .intro .logo1 {
+    border-radius: 10px;
+    border: 4px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+  .p .quote {
+    background-color: white;
+    color: transparent;
+    }
+
+
+  .image {
+    border-radius: 100%;
+    border: 4px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
 	
 	
 </style>
@@ -58,12 +91,15 @@ body {
     </div>
 
 
-   
-       <center>
+    <div class="container">
+      <div class="intro">
+        <center>
           <img src="./front_logo/vergelname.png" class="logo1" style="width:402px; height:100px"> <br> <br>
           <img src="./front_logo/vergelface.jpg" class="image" style="width:222px; height:200px"> 
           <p class="quote"> <h3> "Don't Take Yourself Seriously No One Else Does"</h3></p> 
         </center>
+      </div>
+    </div>
      
 
 
