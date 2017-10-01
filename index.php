@@ -181,7 +181,7 @@
       }
 
   .table {
-    font-size: 18px;
+    font-size: 16px;
     
     line-height: 2.5;
   }
@@ -242,15 +242,27 @@
                   <strong>Current Address:</strong> Inigo Extension Barrio Obrero, Davao City <br>
                   <strong>Permanent Address:</strong> Lianga, Surigao del Sur <br>
                   <strong>Nationality:</strong> Filipino 
-          </center> <br>
+          </center> 
 
+  
           <center>
-            <strong><h3>Language I Speak</h3></strong> 
-                English <br>
-                Tagalog <br>
-                Bisaya <br>
-                Kamayo (native) <br>
-                Surigaonon 
+          <table class="table">
+                <tr>
+                  <th></th>
+                  <th<strong><h3>Languages I speak</h3></strong></th>
+                  <th></th>
+                </tr>
+                <tr>
+                  <td>&nbsp English &nbsp</td>
+                  <td>&nbsp Kamayo (native) &nbsp</td>
+                  <td>&nbsp Surigaonon &nbsp</td>
+                </tr>
+              <tr>
+                  <td>&nbsp Bisaya &nbsp</td>
+                  <td></td>
+                  <td>&nbsp Tagalog &nbsp</td>
+              </tr>
+          </table>
           </center>
 
          
