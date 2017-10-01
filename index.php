@@ -84,10 +84,10 @@ body {
   <body> 
 
     <div class="medialink">
-      <a href="http://www.facebook.com/29vergel" target="_blank" ><img src="./media_logo/facebook.png" class="logo" style="width:62px; height:60px" title="Facebook"></a>
-      <a href="http://claveriavergel@gmail.com" target="_blank"><img src="./media_logo/gmail.png" class="logo" style="width:62px; height:60px" title="Gmail "></a>
-      <a href="http://www.instagram.com/i.am.vergel/" target="_blank"><img src="./media_logo/instagram.png" class="logo" style="width:62px; height:60px" title="Instagram"></a>
-      <a href="http://www.twitter.com/vclaveria123" target="_blank"><img src="./media_logo/twitter.png" class="logo" style="width:62px; height:60px" title="Twitter"></a>
+      <a href="" ><img src="./media_logo/facebook.png" class="logo" style="width:62px; height:60px" title="Facebook"></a>
+      <a href="" ><img src="./media_logo/gmail.png" class="logo" style="width:62px; height:60px" title="Gmail "></a>
+      <a href="" ><img src="./media_logo/instagram.png" class="logo" style="width:62px; height:60px" title="Instagram"></a>
+      <a href="" ><img src="./media_logo/twitter.png" class="logo" style="width:62px; height:60px" title="Twitter"></a>
     </div>
 
 
