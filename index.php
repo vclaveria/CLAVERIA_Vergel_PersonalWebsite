@@ -228,7 +228,7 @@
           </center>
 
           <center>
-          
+          <img src="./school_logo/sdssulogo.png" class="logo" style="width:102px; height:100px" title="Surigao del Sur State University" > <br>
            <strong>Surigao del Sur State University</strong><br>
                    Lianga, Surigao del Sur<br>
                    Graduated School Year 2009 – 2013 
