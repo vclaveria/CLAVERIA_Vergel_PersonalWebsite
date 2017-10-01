@@ -158,6 +158,21 @@
     text-shadow: 1px 1px black;
       }
 
+  
+  .education {
+    padding: 16px 40 316px 40;
+    background: url("./modalcontent_background/educationbackground.jpg");
+    background-size: cover;
+    color: white;
+    border-radius: 12px;
+    font-size: 18px;
+    font-style: Arial;
+    text-shadow: 1px 1px black;
+      }
+
+
+      
+
 
 </style>
 
@@ -218,7 +233,7 @@
     <span onclick="education.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
-     
+          <div class="education">
            <br>
            <center>
            <img src="./school_logo/lceslogo.jpg" class="logo" style="width:102px; height:100px" title="Lianga Central Elementary School"> <br>
@@ -241,7 +256,7 @@
                   Bachelor of Science in Computer Science (BSCS)<br> 
                   2013 – Present
           </center>
-
+          </div>
           </div>
       </div>
     </div>
