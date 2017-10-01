@@ -281,8 +281,16 @@ body {
       <div class="modal-content">
           <div class="container">
      
-          <center> About me</center>
+          <center> 
+            
+          <br>
+            Sports  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+            Music   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+            Travel  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+            Cooking &nbsp&nbsp&nbsp&nbsp Gaming &nbsp&nbsp&nbsp&nbsp 
+            Partying
 
+          </center>
           </div>
       </div>
     </div>
