@@ -277,6 +277,17 @@
               </tr>
           </table>
           </center>
+
+
+          <center>
+          <strong><h3>Technical Skills</h3></strong>
+              Programming (Java, PHP, C++, CSS, HTML) <br>
+              
+              Microsoft Office (MS Word, MS Excel, MS PowerPoint, MS Publisher) <br>
+              
+              Adobe Creative Skill (Photoshop) <br> 
+          </center>
+
           </div>
       </div>
     </div>
