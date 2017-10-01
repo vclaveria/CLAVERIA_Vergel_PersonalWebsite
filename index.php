@@ -138,7 +138,17 @@ body {
     }
 
 
+  .achievement {
+    padding: 16px 40 16px 80;
+    background-image: url("./modalcontent_background/achievementbackground.jpg");
+    color: #c9d0d4;
+    border-radius: 12px;
+    font-size: 18px;
+    text-shadow: 1px 1px black;
+    }
 	
+
+
 </style>
 
 
@@ -212,21 +222,23 @@ body {
           <div class="container">
      
           <center> 
+          <div class="achievement">
           <h3>Achievements</h3> 
           <img src="./images/trophylogo.png" class="logo" style="width:62px; height:60px" > <br>
-            Champion <br> Summer League Basketball tournament Under 16 <br>
+            <strong>Champion</strong> <br> Summer League Basketball tournament Under 16 <br>
             Year - 2012 <br> <br>
             <img src="./images/sportmanshiplogo.png" class="logo" style="width:62px; height:60px"> <br>
-            Sportsmanship award <br> Christmas Basketball League Under 16<br>
+            <strong>Sportsmanship award</strong> <br> Christmas Basketball League Under 16<br>
             Year - 2012 <br> <br> 
             <img src="./images/memberlogo.png" class="logo" style="width:62px; height:60px"> <br>
-            Member of Computer Science Students <br>
+            <strong>Member of Computer Science Students</strong> <br>
             Year - 2013 – Present <br>
 
-            Member of Philippines Society of Information Technology Students <br>
+           <strong> Member of Philippines Society of Information Technology Students</strong> <br>
             Year - 2013 – Present
           </center>
 
+          </div>
           </div>
       </div>   
     </div>
