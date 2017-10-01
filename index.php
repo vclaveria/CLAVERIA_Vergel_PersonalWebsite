@@ -214,8 +214,13 @@ body {
       <div class="modal-content">
           <div class="container">
      
-          <center> About me</center>
-
+     <h3>Aspiration in Life</h3> 
+    My aspiration in life is to find my purpose and to fulfil my purpose in this world. And this purposed are
+    to travel across the world to get to know different culture of people. Visit every historic place and the 
+    beautiful wonders of the world. To became good at everything. To get married, have 3 or 4 children and enjoy 
+    my entire life with my beautiful and loving wife. To settle down and to start enjoying everything coz I won’t
+    be living forever. And in the end, to die without regrets.
+  
           </div>
       </div>
     </div>
