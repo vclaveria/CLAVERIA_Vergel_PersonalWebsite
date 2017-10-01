@@ -221,19 +221,21 @@
      
            <br>
            <center>
+           <img src="./school_logo/lceslogo.jpg" class="logo" style="width:102px; height:100px" title="Lianga Central Elementary School"> <br>
             <strong>Lianga Central Elementary School</strong><br>
                     Lianga, Surigao del Sur <br>
                     Graduated School Year 2003 – 2009<br> <br> 
           </center>
 
           <center>
+          
            <strong>Surigao del Sur State University</strong><br>
                    Lianga, Surigao del Sur<br>
                    Graduated School Year 2009 – 2013 
           </center><br>
 
           <center>
-          <strong>University of Southeastern Philippines</strong> <br>
+            <strong>University of Southeastern Philippines</strong> <br>
                   Barrio Obrero, Davao City, Philippines<br>
                   Bachelor of Science in Computer Science (BSCS)<br> 
                   2013 – Present
