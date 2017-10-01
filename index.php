@@ -223,20 +223,27 @@ body {
     <span onclick="aspiration.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
-          <div class=aspiration>
-            <h3>Aspiration in Life</h3> 
+          <div class=aspiration> 
+            <center>
+              <strong><h3>Aspiration in Life</h3> </strong> <br>
+              <img src="./images/aspirationlogo.png" class="logo" style="width:62px; height:60px" title="Aspiration ">
+            </center>
                 My aspiration in life is to find my purpose and to fulfil my purpose in this world. And this purposed are
                 to travel across the world to get to know different culture of people. Visit every historic place and the 
                 beautiful wonders of the world. To became good at everything. To get married, have 3 or 4 children and enjoy 
-                my entire life with my beautiful and loving wife. To settle down and to start enjoying everything coz I won’t
+                my entire life with my beautiful wife. To settle down and to start enjoying everything coz I won’t
                 be living forever. And in the end, to die without regrets.
   
             <br>
-
-            <h3>Goals in Life</h3>     
-	              My Goals are to increase my knowledge in computer science fields and new technology 
-                especially in web development, mobile design and web design. I always look forward to
-                learn new technologies and be a part of a huge respected company nowadays
+            <center>
+              <strong><h3>Goals in Life</h3> </strong>  
+              <img src="./images/goallogo.png" class="logo" style="width:62px; height:60px" title="Goals ">
+            </center>
+                My main goal for now is to pass all the subjects and to graduate in this university and that make my parents
+                proud of me. To give my parents good life. To get a stable job in well respected company nowadays. 
+                To apply what I learn in college. To live young, wild and free!.
+                 
+	              
           </div>
           </div>
       </div>
