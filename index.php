@@ -119,6 +119,14 @@ body {
 
   
 
+  .close:hover,
+  .close:focus {
+    color: red;
+    cursor: pointer;
+    }
+
+
+
 
 	
 </style>
