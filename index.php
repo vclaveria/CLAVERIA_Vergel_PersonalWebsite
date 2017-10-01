@@ -135,8 +135,8 @@ body {
     <div class="btn-group">	<center>
 
       <button onclick="aboutme.style.display='block'"  style="width:auto;" class="button">ABOUT ME</button> 
-      <button class="button">EDUCATION</button>
-      <button class="button">ACHIEVEMENT</button>
+      <button onclick="education.style.display='block'"  style="width:auto;" class="button">EDUCATION</button>
+      <button onclick="achievement.style.display='block'"  style="width:auto;" class="button">ACHIEVEMENT</button>
       <button class="button">ASPIRATION</button>	
       <button class="button">INTEREST</button>	</center>
 
@@ -145,6 +145,20 @@ body {
 
     
     <div id="aboutme" class="modal">
+      
+       
+    </div>
+
+
+
+
+    <div id="education" class="modal">
+      
+       
+    </div>
+
+
+    <div id="achievement" class="modal">
       
        
     </div>
