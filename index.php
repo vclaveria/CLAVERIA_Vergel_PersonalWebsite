@@ -106,6 +106,17 @@ body {
     font-style: Arial;
     }
 
+
+  
+  .close {
+    position: absolute;
+    right: 57px;
+    top: 0px;
+    color: white;
+    font-size: 90px;
+    font-weight: bold;
+    }
+
   
 
 
@@ -152,6 +163,7 @@ body {
 
     
     <div id="aboutme" class="modal">
+    <span onclick="aboutme.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
      
@@ -165,6 +177,7 @@ body {
 
 
     <div id="education" class="modal">
+    <span onclick="education.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
      
