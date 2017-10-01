@@ -125,7 +125,17 @@ body {
     cursor: pointer;
     }
 
-
+    
+  .aspiration {
+    padding: 16px 40 116px 40;
+    background-size: cover;
+    border-radius: 12px;
+    font-size: 18px;
+    text-align: justify;
+    background-image: url("./modalcontent_background/aspirationbackground.jpg");
+    text-shadow: 1px 1px black;
+    color: #c9d0d4;  
+    }
 
 
 	
@@ -213,21 +223,21 @@ body {
     <span onclick="aspiration.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
-     
-     <h3>Aspiration in Life</h3> 
-    My aspiration in life is to find my purpose and to fulfil my purpose in this world. And this purposed are
-    to travel across the world to get to know different culture of people. Visit every historic place and the 
-    beautiful wonders of the world. To became good at everything. To get married, have 3 or 4 children and enjoy 
-    my entire life with my beautiful and loving wife. To settle down and to start enjoying everything coz I won’t
-    be living forever. And in the end, to die without regrets.
+          <div class=aspiration>
+            <h3>Aspiration in Life</h3> 
+                My aspiration in life is to find my purpose and to fulfil my purpose in this world. And this purposed are
+                to travel across the world to get to know different culture of people. Visit every historic place and the 
+                beautiful wonders of the world. To became good at everything. To get married, have 3 or 4 children and enjoy 
+                my entire life with my beautiful and loving wife. To settle down and to start enjoying everything coz I won’t
+                be living forever. And in the end, to die without regrets.
   
-    <br>
+            <br>
 
-    <h3>Goals in Life</h3>     
-	  My Goals are to increase my knowledge in computer science fields and new technology 
-    especially in web development, mobile design and web design. I always look forward to
-    learn new technologies and be a part of a huge respected company nowadays
-
+            <h3>Goals in Life</h3>     
+	              My Goals are to increase my knowledge in computer science fields and new technology 
+                especially in web development, mobile design and web design. I always look forward to
+                learn new technologies and be a part of a huge respected company nowadays
+          </div>
           </div>
       </div>
     </div>
