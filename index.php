@@ -153,7 +153,6 @@
     color: white;
     border-radius: 12px;
     font-size: 18px;
-    font face: Arial;
     background-image: url("./modalcontent_background/interestbackground.jpg");
     text-shadow: 1px 1px black;
       }
@@ -170,17 +169,22 @@
     text-shadow: 1px 1px black;
       }
 
-    .education .sdssualign {
+  .education .sdssualign {
     float: left;
     text-shadow: 1px 1px black;
       }
 
       
-    .education .usepalign {
-      float: right;
-      text-shadow: 1px 1px black;
-        }
+  .education .usepalign {
+    float: right;
+    text-shadow: 1px 1px black;
+      }
 
+  .table {
+    font-size: 18px;
+    
+    line-height: 2.5;
+  }
 
 
 </style>
@@ -241,7 +245,7 @@
           </center> <br>
 
           <center>
-            <strong><h3>Language I Speak</h3></strong>
+            <strong><h3>Language I Speak</h3></strong> 
                 English <br>
                 Tagalog <br>
                 Bisaya <br>
@@ -249,6 +253,30 @@
                 Surigaonon 
           </center>
 
+         
+          <center>
+          <table class="table">
+                <tr>
+                  <th></th>
+                  <th<strong><h3>Personal Skills</h3></strong></th>
+                  <th></th>
+                </tr>
+                <tr>
+                  <td>&nbsp Adaptability &nbsp</td>
+                  <td>&nbsp Attention to Details &nbsp</td>
+                  <td>&nbsp Flexibility &nbsp</td>
+                </tr>
+              <tr>
+                  <td>&nbsp Honesty &nbsp</td>
+                  <td>&nbsp Handling Pressure &nbsp</td>
+                  <td>&nbsp Dependable &nbsp</td>
+              </tr>
+              <tr>
+                  <td>&nbsp Self confidence &nbsp</td>
+                  <td>&nbsp Advising people &nbsp</td>
+              </tr>
+          </table>
+          </center>
           </div>
       </div>
     </div>
