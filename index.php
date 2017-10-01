@@ -221,6 +221,13 @@ body {
     my entire life with my beautiful and loving wife. To settle down and to start enjoying everything coz I won’t
     be living forever. And in the end, to die without regrets.
   
+    <br>
+
+    <h3>Goals in Life</h3>     
+	  My Goals are to increase my knowledge in computer science fields and new technology 
+    especially in web development, mobile design and web design. I always look forward to
+    learn new technologies and be a part of a huge respected company nowadays
+
           </div>
       </div>
     </div>
