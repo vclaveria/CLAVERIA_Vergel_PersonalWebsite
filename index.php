@@ -170,8 +170,17 @@
     text-shadow: 1px 1px black;
       }
 
+    .education .sdssualign {
+    float: left;
+    text-shadow: 1px 1px black;
+      }
 
       
+    .education .usepalign {
+      float: right;
+      text-shadow: 1px 1px black;
+        }
+
 
 
 </style>
@@ -242,13 +251,16 @@
                     Graduated School Year 2003 – 2009<br> <br> 
           </center>
 
+          <div class="sdssualign">
           <center>
           <img src="./school_logo/sdssulogo.png" class="logo" style="width:102px; height:100px" title="Surigao del Sur State University" > <br>
            <strong>Surigao del Sur State University</strong><br>
                    Lianga, Surigao del Sur<br>
                    Graduated School Year 2009 – 2013 
           </center><br>
-
+          </div>
+          
+          <div class="usepalign">
           <center>
           <img src="./school_logo/useplogo.png" class="logo"  style="width:102px; height:100px" title="University of Southeastern Philippines"> <br>
             <strong>University of Southeastern Philippines</strong> <br>
@@ -256,6 +268,7 @@
                   Bachelor of Science in Computer Science (BSCS)<br> 
                   2013 – Present
           </center>
+          </div>
           </div>
           </div>
       </div>
