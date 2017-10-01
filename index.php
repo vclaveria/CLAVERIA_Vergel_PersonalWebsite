@@ -110,7 +110,7 @@
   .close {
     position: absolute;
     right: 57px;
-    top: 0px;
+    top: 50px;
     color: white;
     font-size: 90px;
     font-weight: bold;
@@ -180,11 +180,7 @@
     text-shadow: 1px 1px black;
       }
 
-  .table {
-    font-size: 16px;
-    
-    line-height: 2.5;
-  }
+  
 
 
 </style>
@@ -241,62 +237,20 @@
                   <strong>E-mail:</strong> claveriavergel@gmail.com </a> <br>
                   <strong>Current Address:</strong> Inigo Extension Barrio Obrero, Davao City <br>
                   <strong>Permanent Address:</strong> Lianga, Surigao del Sur <br>
-                  <strong>Nationality:</strong> Filipino 
-          </center> 
-
-  
-          <center>
-          <table class="table">
-                <tr>
-                  <th></th>
-                  <th<strong><h3>Languages I speak</h3></strong></th>
-                  <th></th>
-                </tr>
-                <tr>
-                  <td>&nbsp English &nbsp</td>
-                  <td>&nbsp Kamayo (native) &nbsp</td>
-                  <td>&nbsp Surigaonon &nbsp</td>
-                </tr>
-              <tr>
-                  <td>&nbsp Bisaya &nbsp</td>
-                  <td></td>
-                  <td>&nbsp Tagalog &nbsp</td>
-              </tr>
-          </table>
-          </center>
-
+                  <strong>Nationality:</strong> Filipino <br> <br>
          
-          <center>
-          <table class="table">
-                <tr>
-                  <th></th>
-                  <th<strong><h3>Personal Skills</h3></strong></th>
-                  <th></th>
-                </tr>
-                <tr>
-                  <td>&nbsp Adaptability &nbsp</td>
-                  <td>&nbsp Attention to Details &nbsp</td>
-                  <td>&nbsp Flexibility &nbsp</td>
-                </tr>
-              <tr>
-                  <td>&nbsp Honesty &nbsp</td>
-                  <td>&nbsp Handling Pressure &nbsp</td>
-                  <td>&nbsp Dependable &nbsp</td>
-              </tr>
-              <tr>
-                  <td>&nbsp Self confidence &nbsp</td>
-                  <td>&nbsp Advising people &nbsp</td>
-              </tr>
-          </table>
-          </center>
+         
+              <strong><h3>Languages I speak</h3></strong>
+                  English, Kamayo (native),  Surigaonon,  Bisaya and Tagalog 
 
-
-          <center>
+                  <br> <br>
+                  <strong><h3>Personal Skills</h3></strong>
+                   Adaptability, Attention to Details, Flexibility, Honesty, Handling Pressure, Dependable, Self confidence and Advising people 
+                  <br> <br>
+         
           <strong><h3>Technical Skills</h3></strong>
               Programming (Java, PHP, C++, CSS, HTML) <br>
-              
               Microsoft Office (MS Word, MS Excel, MS PowerPoint, MS Publisher) <br>
-              
               Adobe Creative Skill (Photoshop) <br> 
           </center>
 
