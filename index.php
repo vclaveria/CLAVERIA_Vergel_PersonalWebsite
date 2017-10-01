@@ -211,8 +211,21 @@ body {
      <div class="modal-content">
           <div class="container">
      
-          <center> About me</center>
+          <center> 
+          <h3>Achievements</h3> 
+            Champion <br> Summer League Basketball tournament Under 16 <br>
+            Year - 2012 <br> <br>
 
+            Sportsmanship award <br> Christmas Basketball League Under 16<br>
+            Year - 2012 <br> <br> 
+
+            Member of Computer Science Students <br>
+            Year - 2013 – Present <br>
+
+            Member of Philippines Society of Information Technology Students <br>
+            Year - 2013 – Present
+          </center>
+          
           </div>
       </div>   
     </div>
