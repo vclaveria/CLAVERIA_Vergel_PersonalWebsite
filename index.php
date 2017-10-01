@@ -89,16 +89,23 @@ body {
     }
 
 
- 
-	
-
-  
-.container {
+  .container {
     padding: 26px;
     font-family: 'arial', cursive; 
     font-weight: normal;
     }
-  
+
+
+  .modal-content {
+    background-color: #fefefe;
+    margin: 3% auto 15% auto; 
+    border: 1px solid #888;
+    width: 75%;
+    border-radius: 12px;
+    line-height: 2.5;
+    font-style: Arial;
+    }
+
   
 
 
@@ -137,30 +144,68 @@ body {
       <button onclick="aboutme.style.display='block'"  style="width:auto;" class="button">ABOUT ME</button> 
       <button onclick="education.style.display='block'"  style="width:auto;" class="button">EDUCATION</button>
       <button onclick="achievement.style.display='block'"  style="width:auto;" class="button">ACHIEVEMENT</button>
-      <button class="button">ASPIRATION</button>	
-      <button class="button">INTEREST</button>	</center>
+      <button onclick="aspiration.style.display='block'"  style="width:auto;" class="button">ASPIRATION</button>	
+      <button onclick="interest.style.display='block'"  style="width:auto;" class="button">INTEREST</button>	</center>
 
     </div>
 
 
     
     <div id="aboutme" class="modal">
-      
-       
+      <div class="modal-content">
+          <div class="container">
+     
+          <center> About me</center>
+
+          </div>
+      </div>
     </div>
 
 
 
 
     <div id="education" class="modal">
-      
-       
+      <div class="modal-content">
+          <div class="container">
+     
+          <center> About me</center>
+
+          </div>
+      </div>
     </div>
 
 
     <div id="achievement" class="modal">
-      
-       
+     <div class="modal-content">
+          <div class="container">
+     
+          <center> About me</center>
+
+          </div>
+      </div>   
+    </div>
+
+
+
+    <div id="aspiration" class="modal">
+      <div class="modal-content">
+          <div class="container">
+     
+          <center> About me</center>
+
+          </div>
+      </div>
+    </div>
+
+
+    <div id="interest" class="modal">
+      <div class="modal-content">
+          <div class="container">
+     
+          <center> About me</center>
+
+          </div>
+      </div>
     </div>
 
 
