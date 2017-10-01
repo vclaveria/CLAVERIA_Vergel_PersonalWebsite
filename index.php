@@ -235,6 +235,7 @@
           </center><br>
 
           <center>
+          <img src="./school_logo/useplogo.png" class="logo"  style="width:102px; height:100px" title="University of Southeastern Philippines"> <br>
             <strong>University of Southeastern Philippines</strong> <br>
                   Barrio Obrero, Davao City, Philippines<br>
                   Bachelor of Science in Computer Science (BSCS)<br> 
