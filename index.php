@@ -213,19 +213,20 @@ body {
      
           <center> 
           <h3>Achievements</h3> 
+          <img src="./images/trophylogo.png" class="logo" style="width:62px; height:60px" > <br>
             Champion <br> Summer League Basketball tournament Under 16 <br>
             Year - 2012 <br> <br>
-
+            <img src="./images/sportmanshiplogo.png" class="logo" style="width:62px; height:60px"> <br>
             Sportsmanship award <br> Christmas Basketball League Under 16<br>
             Year - 2012 <br> <br> 
-
+            <img src="./images/memberlogo.png" class="logo" style="width:62px; height:60px"> <br>
             Member of Computer Science Students <br>
             Year - 2013 – Present <br>
 
             Member of Philippines Society of Information Technology Students <br>
             Year - 2013 – Present
           </center>
-          
+
           </div>
       </div>   
     </div>
