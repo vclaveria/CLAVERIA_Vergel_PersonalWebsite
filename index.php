@@ -72,7 +72,36 @@ body {
     border: 4px solid white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
+
+
+
+  .modal {
+    display: none; 
+    position: fixed; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.8); 
+    padding-top: 40px;
+    }
+
+
+ 
 	
+
+  
+.container {
+    padding: 26px;
+    font-family: 'arial', cursive; 
+    font-weight: normal;
+    }
+  
+  
+
+
 	
 </style>
 
@@ -105,13 +134,25 @@ body {
 
     <div class="btn-group">	<center>
 
-      <button class="button">ABOUT ME</button> 
+      <button onclick="aboutme.style.display='block'"  style="width:auto;" class="button">ABOUT ME</button> 
       <button class="button">EDUCATION</button>
       <button class="button">ACHIEVEMENT</button>
       <button class="button">ASPIRATION</button>	
       <button class="button">INTEREST</button>	</center>
 
     </div>
+
+
+    
+    <div id="aboutme" class="modal">
+      
+       
+    </div>
+
+
+
+
+
 
 
   </body>
