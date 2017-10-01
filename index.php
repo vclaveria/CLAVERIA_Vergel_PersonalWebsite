@@ -219,7 +219,25 @@
       <div class="modal-content">
           <div class="container">
      
-          <center> About me</center>
+           <br>
+           <center>
+            <strong>Lianga Central Elementary School</strong><br>
+                    Lianga, Surigao del Sur <br>
+                    Graduated School Year 2003 – 2009<br> <br> 
+          </center>
+
+          <center>
+           <strong>Surigao del Sur State University</strong><br>
+                   Lianga, Surigao del Sur<br>
+                   Graduated School Year 2009 – 2013 
+          </center><br>
+
+          <center>
+          <strong>University of Southeastern Philippines</strong> <br>
+                  Barrio Obrero, Davao City, Philippines<br>
+                  Bachelor of Science in Computer Science (BSCS)<br> 
+                  2013 – Present
+          </center>
 
           </div>
       </div>
