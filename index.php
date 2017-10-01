@@ -9,7 +9,7 @@ body {
 
 
 .btn-group .button {
-    margin: 570px 0 5px 12;
+    margin: 70px 0 5px 12;
     background-color: transparent;
     border: 4px solid white;
     color: white;
@@ -58,6 +58,13 @@ body {
     </div>
 
 
+   
+       <center>
+          <img src="./front_logo/vergelname.png" class="logo1" style="width:402px; height:100px"> <br> <br>
+          <img src="./front_logo/vergelface.jpg" class="image" style="width:222px; height:200px"> 
+          <p class="quote"> <h3> "Don't Take Yourself Seriously No One Else Does"</h3></p> 
+        </center>
+     
 
 
     <div class="btn-group">	<center>
