@@ -229,13 +229,24 @@
       <div class="modal-content">
           <div class="container">
      
-          <center><strong>Name:</strong>  Vergel Gomez Claveria <br>
+          <center>
+            <strong><h3>Personal Information</h3></strong>
+                  <strong>Name:</strong>  Vergel Gomez Claveria <br>
                   <strong>Phone:</strong> 09101454605	 <br>
                   <strong>Birthday:</strong> November 02, 1996 <br>
                   <strong>E-mail:</strong> claveriavergel@gmail.com </a> <br>
                   <strong>Current Address:</strong> Inigo Extension Barrio Obrero, Davao City <br>
                   <strong>Permanent Address:</strong> Lianga, Surigao del Sur <br>
                   <strong>Nationality:</strong> Filipino 
+          </center> <br>
+
+          <center>
+            <strong><h3>Language I Speak</h3></strong>
+                English <br>
+                Tagalog <br>
+                Bisaya <br>
+                Kamayo (native) <br>
+                Surigaonon 
           </center>
 
           </div>
