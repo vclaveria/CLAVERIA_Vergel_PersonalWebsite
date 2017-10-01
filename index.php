@@ -282,7 +282,13 @@ body {
           <div class="container">
      
           <center> 
-            
+            <img src="./images/sportlogo.png" class="logo" style="width:62px; height:60px" title="Sports">  &nbsp&nbsp&nbsp
+            <img src="./images/musiclogo.png" class="logo" style="width:62px; height:60px" title="Music">  &nbsp&nbsp&nbsp
+            <img src="./images/travellogo.png" class="logo" style="width:62px; height:60px" title="Travels">  &nbsp&nbsp&nbsp
+            <img src="./images/cooklogo.png" class="logo" style="width:62px; height:60px" title="Cooking"> &nbsp&nbsp&nbsp
+            <img src="./images/gamelogo.png" class="logo" style="width:62px; height:60px" title="Gaming"> &nbsp&nbsp&nbsp
+            <img src="./images/partyinglogo.png" class="logo" style="width:62px; height:60px" title="Partying">
+       
           <br>
             Sports  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
             Music   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
