@@ -241,14 +241,17 @@
          
          
               <strong><h3>Languages I speak</h3></strong>
+              <img src="./images/language.png" class="logo" style="width:62px; height:60px" > <br>
                   English, Kamayo (native),  Surigaonon,  Bisaya and Tagalog 
 
                   <br> <br>
                   <strong><h3>Personal Skills</h3></strong>
+                  <img src="./images/personalskill.png" class="logo" style="width:62px; height:60px" > <br>
                    Adaptability, Attention to Details, Flexibility, Honesty, Handling Pressure, Dependable, Self confidence and Advising people 
                   <br> <br>
          
           <strong><h3>Technical Skills</h3></strong>
+          <img src="./images/technicalskill.png" class="logo" style="width:62px; height:60px" > <br>
               Programming (Java, PHP, C++, CSS, HTML) <br>
               Microsoft Office (MS Word, MS Excel, MS PowerPoint, MS Publisher) <br>
               Adobe Creative Skill (Photoshop) <br> 
