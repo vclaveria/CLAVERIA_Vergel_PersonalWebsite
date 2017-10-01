@@ -1,14 +1,14 @@
 <style> 
 
-body {
+  body {
   
     font-family: Georgia, "Arial", serif;
   	background-image: url("./images/funnydog.jpg");
 	  background-size: cover;	 
-	}
+	    }
 
 
-.btn-group .button {
+  .btn-group .button {
     margin: 70px 0 5px 12;
     background-color: transparent;
     border: 4px solid white;
@@ -18,26 +18,25 @@ body {
     font-size: 18px;
     cursor: pointer;
     border-radius: 12px;
-  }
+      }
 
 
   .btn-group .button:hover {
     background-color: white;
     color: black;
-  }  
+      }  
 
 
   .medialink{
-  
   float: right;
   padding: 25px 20px;
-  }
+    }
 
 
-.medialink .logo:hover {
+  .medialink .logo:hover {
     background-color: white;
     border-radius: 12px;
-  }
+      }
 
 
 
@@ -51,20 +50,20 @@ body {
     text-align: center;
     line-height: 1.5;
     text-shadow: 1px 1px black;
-    }
+      }
 
 
   .intro .logo1 {
     border-radius: 10px;
     border: 4px solid white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    }
+      }
 
 
   .p .quote {
     background-color: white;
     color: transparent;
-    }
+      }
 
 
   .image {
@@ -86,14 +85,14 @@ body {
     background-color: rgb(0,0,0); 
     background-color: rgba(0,0,0,0.8); 
     padding-top: 40px;
-    }
+      }
 
 
   .container {
     padding: 26px;
     font-family: 'arial', cursive; 
     font-weight: normal;
-    }
+      }
 
 
   .modal-content {
@@ -104,7 +103,7 @@ body {
     border-radius: 12px;
     line-height: 2.5;
     font-style: Arial;
-    }
+      }
 
 
   
@@ -115,7 +114,7 @@ body {
     color: white;
     font-size: 90px;
     font-weight: bold;
-    }
+      }
 
   
 
@@ -123,7 +122,7 @@ body {
   .close:focus {
     color: red;
     cursor: pointer;
-    }
+      }
 
     
   .aspiration {
@@ -135,7 +134,7 @@ body {
     background-image: url("./modalcontent_background/aspirationbackground.jpg");
     text-shadow: 1px 1px black;
     color: #c9d0d4;  
-    }
+      }
 
 
   .achievement {
@@ -145,8 +144,19 @@ body {
     border-radius: 12px;
     font-size: 18px;
     text-shadow: 1px 1px black;
-    }
+      }
 	
+  
+  .interest{
+    padding: 16px 40 16px 40;
+    background-size: cover;
+    color: white;
+    border-radius: 12px;
+    font-size: 18px;
+    font face: Arial;
+    background-image: url("./modalcontent_background/interestbackground.jpg");
+    text-shadow: 1px 1px black;
+      }
 
 
 </style>
@@ -280,8 +290,8 @@ body {
     <span onclick="interest.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
-     
-          <center> 
+          <div class="interest">
+          <center> <br>
             <img src="./images/sportlogo.png" class="logo" style="width:62px; height:60px" title="Sports">  &nbsp&nbsp&nbsp
             <img src="./images/musiclogo.png" class="logo" style="width:62px; height:60px" title="Music">  &nbsp&nbsp&nbsp
             <img src="./images/travellogo.png" class="logo" style="width:62px; height:60px" title="Travels">  &nbsp&nbsp&nbsp
@@ -297,6 +307,7 @@ body {
             Partying
 
           </center>
+          </div>
           </div>
       </div>
     </div>
