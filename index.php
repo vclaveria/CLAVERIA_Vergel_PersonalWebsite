@@ -189,6 +189,7 @@ body {
 
 
     <div id="achievement" class="modal">
+    <span onclick="achievement.style.display='none'" class="close" title="Close">×</span>
      <div class="modal-content">
           <div class="container">
      
@@ -201,6 +202,7 @@ body {
 
 
     <div id="aspiration" class="modal">
+    <span onclick="aspiration.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
      
@@ -212,6 +214,7 @@ body {
 
 
     <div id="interest" class="modal">
+    <span onclick="interest.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
      
