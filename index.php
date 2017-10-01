@@ -243,8 +243,8 @@
       <div class="modal-content">
           <div class="container">
           <div class="education">
-           <br>
            <center>
+            <strong><h3>Education Background</h3></strong> 
            <img src="./school_logo/lceslogo.jpg" class="logo" style="width:102px; height:100px" title="Lianga Central Elementary School"> <br>
             <strong>Lianga Central Elementary School</strong><br>
                     Lianga, Surigao del Sur <br>
