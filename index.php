@@ -180,7 +180,15 @@
     text-shadow: 1px 1px black;
       }
 
-  
+  .aboutme {
+    background: url("./modalcontent_background/aboutmebackground.jpg");
+    background-size: cover;
+    border-radius: 12px; 
+    color: #c9d0d4;
+    font-size: 18px;
+    text-shadow: 1px 1px black;
+    padding: 16px 40 116px 40;
+      }
 
 
 </style>
@@ -228,9 +236,10 @@
     <span onclick="aboutme.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
           <div class="container">
-     
+          <div class="aboutme">
           <center>
             <strong><h3>Personal Information</h3></strong>
+            
                   <strong>Name:</strong>  Vergel Gomez Claveria <br>
                   <strong>Phone:</strong> 09101454605	 <br>
                   <strong>Birthday:</strong> November 02, 1996 <br>
@@ -247,7 +256,8 @@
                   <br> <br>
                   <strong><h3>Personal Skills</h3></strong>
                   <img src="./images/personalskill.png" class="logo" style="width:62px; height:60px" > <br>
-                   Adaptability, Attention to Details, Flexibility, Honesty, Handling Pressure, Dependable, Self confidence and Advising people 
+                   Adaptability, Attention to Details, Flexibility, Honesty, Handling Pressure, <br>
+                   Dependable, Self confidence and Advising people 
                   <br> <br>
          
           <strong><h3>Technical Skills</h3></strong>
@@ -256,7 +266,7 @@
               Microsoft Office (MS Word, MS Excel, MS PowerPoint, MS Publisher) <br>
               Adobe Creative Skill (Photoshop) <br> 
           </center>
-
+          </div>
           </div>
       </div>
     </div>
