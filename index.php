@@ -243,7 +243,7 @@
           <div class="container">
           <div class="aboutme">
           <center>
-            <strong><h3>Personal Information</h3></strong>
+            <strong><h3>PERSONAL INFORMATION</h3></strong>
             <img src="./images/vergel.jpg" class="me" style="width:190px; height:190px" > <br>
                   <strong>Name:</strong>  Vergel Gomez Claveria <br>
                   <strong>Phone:</strong> 09101454605	 <br>
@@ -254,18 +254,18 @@
                   <strong>Nationality:</strong> Filipino <br> <br>
          
          
-              <strong><h3>Languages I speak</h3></strong>
+              <strong><h3>LANGUAGES I SPEAK</h3></strong>
               <img src="./images/language.png" class="logo" style="width:62px; height:60px" > <br>
                   English, Kamayo (native),  Surigaonon,  Bisaya and Tagalog 
 
                   <br> <br>
-                  <strong><h3>Personal Skills</h3></strong>
+                  <strong><h3>PERSONAL SKILLS</h3></strong>
                   <img src="./images/personalskill.png" class="logo" style="width:62px; height:60px" > <br>
                    Adaptability, Attention to Details, Flexibility, Honesty, Handling Pressure, <br>
                    Dependable, Self confidence and Advising people 
                   <br> <br>
          
-          <strong><h3>Technical Skills</h3></strong>
+          <strong><h3>TECHNICAL SKILLS</h3></strong>
           <img src="./images/technicalskill.png" class="logo" style="width:62px; height:60px" > <br>
               Programming (Java, PHP, C++, CSS, HTML) <br>
               Microsoft Office (MS Word, MS Excel, MS PowerPoint, MS Publisher) <br>
@@ -290,7 +290,7 @@
           <div class="container">
           <div class="education">
            <center>
-            <strong><h3>Education Background</h3></strong> 
+            <strong><h3>EDUCATION BACKGROUND</h3></strong> 
            <img src="./school_logo/lceslogo.jpg" class="logo" style="width:102px; height:100px" title="Lianga Central Elementary School"> <br>
             <strong>Lianga Central Elementary School</strong><br>
                     Lianga, Surigao del Sur <br>
@@ -328,7 +328,7 @@
      
           <center> 
           <div class="achievement">
-          <h3>Achievements</h3> 
+          <h3>ACHIEVEMENTS</h3> 
           <img src="./images/trophylogo.png" class="logo" style="width:62px; height:60px" > <br>
             <strong>Champion</strong> <br> Summer League Basketball tournament Under 16 <br>
             Year - 2012 <br> <br>
@@ -356,7 +356,7 @@
           <div class="container">
           <div class=aspiration> 
             <center>
-              <strong><h3>Aspiration in Life</h3> </strong> <br>
+              <strong><h3>ASPIRATION IN LIFE</h3> </strong> <br>
               <img src="./images/aspirationlogo.png" class="logo" style="width:62px; height:60px" title="Aspiration ">
             </center>
                 My aspiration in life is to find my purpose and to fulfil my purpose in this world. And this purposed are
@@ -367,7 +367,7 @@
   
             <br>
             <center>
-              <strong><h3>Goals in Life</h3> </strong>  
+              <strong><h3>GOALS IN LIFE</h3> </strong>  
               <img src="./images/goallogo.png" class="logo" style="width:62px; height:60px" title="Goals ">
             </center>
                 My main goal for now is to pass all the subjects and to graduate in this university and that make my parents
