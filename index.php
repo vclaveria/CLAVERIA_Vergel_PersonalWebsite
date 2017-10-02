@@ -184,12 +184,17 @@
     background: url("./modalcontent_background/aboutmebackground.jpg");
     background-size: cover;
     border-radius: 12px; 
-    color: #c9d0d4;
+    color: white;
     font-size: 18px;
     text-shadow: 1px 1px black;
     padding: 16px 40 116px 40;
       }
 
+  .me {
+    border-radius: 100%;
+    border: 4px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
 
 </style>
 
@@ -239,7 +244,7 @@
           <div class="aboutme">
           <center>
             <strong><h3>Personal Information</h3></strong>
-            
+            <img src="./images/vergel.jpg" class="me" style="width:190px; height:190px" > <br>
                   <strong>Name:</strong>  Vergel Gomez Claveria <br>
                   <strong>Phone:</strong> 09101454605	 <br>
                   <strong>Birthday:</strong> November 02, 1996 <br>
