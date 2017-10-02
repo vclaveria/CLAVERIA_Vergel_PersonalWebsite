@@ -278,12 +278,6 @@
 
 
 
-
-
-
-
-
-
     <div id="education" class="modal">
     <span onclick="education.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
@@ -321,6 +315,7 @@
     </div>
 
 
+
     <div id="achievement" class="modal">
     <span onclick="achievement.style.display='none'" class="close" title="Close">×</span>
      <div class="modal-content">
@@ -347,6 +342,7 @@
           </div>
       </div>   
     </div>
+
 
 
 
@@ -381,6 +377,8 @@
     </div>
 
 
+
+
     <div id="interest" class="modal">
     <span onclick="interest.style.display='none'" class="close" title="Close">×</span>
       <div class="modal-content">
@@ -406,11 +404,6 @@
           </div>
       </div>
     </div>
-
-
-
-
-
 
 
   </body>
